@@ -1,0 +1,95 @@
+.front {
+    background: #FCE6F0;
+    font-family: "Nunito", sans-serif;
+}
+
+.back {
+    background: #cbebfc;
+    font-family: "Nunito", sans-serif;
+}
+
+.navbar-brand {
+    color: #EA1C2C;
+}
+
+.nav-link {
+    color: #faa4b2;
+}
+
+h1,
+h5 {
+    color: #EA1C2C;
+}
+
+.card {
+    background: #f9b8c3;
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-title a {
+    color: #EA1C2C;
+}
+
+.card-img-container {
+    height: 200px;
+    overflow: hidden;
+}
+
+.card-img-container img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#addtocart {
+    background: #f9b8c3;
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+
+
+.lightBtn {
+    background: #FCE6F0;
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.backBtn {
+    background: #cbebfc;
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 10px;
+    color: #EA1C2C;
+}
+
+
+#dessertimage {
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.card-text {
+    color: white;
+}
+
+#footerallbest {
+    color: #EA1C2C;
+}
+
+footer {
+    color: #faa4b2;
+}
